@@ -1,4 +1,4 @@
-# 3_phase_induction_motor_model
+# Controllo di velocità di un Motore Asincrono Trifase
 
 ac_motor_model programma che mostra la coppia motrice e la corrente assorbita al variare dello scorrimento
 controllo a resistenza rotorica variabile mostra come cambia la coppia e la corrente assorbite al variare della resistenza rotorica
